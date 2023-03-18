@@ -9,7 +9,7 @@ else:
 
 
 
-nota_1= 33
+nota_1= 40
 nota_2= 12
 nota_3= 26
 
