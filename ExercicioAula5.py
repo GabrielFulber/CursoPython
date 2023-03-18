@@ -1,11 +1,11 @@
 numero_1= 11
-numero_2= 1
+numero_2= 10
 
 if numero_1 > numero_2:
     print ("maior")
     print ("")
 else:
-    print ("menor")
+    print ("MENOR")
 
 
 
